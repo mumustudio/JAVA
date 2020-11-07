@@ -1,0 +1,20 @@
+V2{
+	原檔案第29行(//// TODO: While each of Character object has benn modified or it's zero, the Random function execute.)
+	修改成(//// TODO: While each of Character object has been modified or Character.status is zero, the Random fuction execute.)
+}
+
+V3{
+	原檔案第29行(//// TODO: While each of Character object has been modified or Character.status is zero, the Random fuction execute.)
+	修改成(//// TODO: While each of Character object has been modified or Character.status is zero, the Random function execute.)
+}
+
+
+V4{
+	原檔案第29行(//// TODO: While each of Character object has been modified or Character.status is zero, the Random function execute.)
+	修改成(//// TODO: While each of Character object has been modified or Character.status is zero, the Random function end.)
+	原1_Character.txt 第二行(0,1,1000,1,human.png)
+			  第三行(0,2,1000,1,human_2.png)
+	修改成1_Character.txt 第二行(0,1,1000,1,human.jpg)
+			      第三行(0,2,1000,1,human_2.jpg)
+} 
+
